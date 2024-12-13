@@ -1,0 +1,68 @@
+*{
+    font-family: "Parkinsans", sans-serif;
+}
+header{
+    background-color: #141827;
+}
+header a{
+    color: #c1d9d0;
+}
+.nav-item a{
+    color: #c1d9d0;
+}
+#boton-perfil{
+   background-color:#6ca19e;
+}
+.nav-item a:hover{
+    color: #fffae3;
+}
+#app{
+    color:#6ca19e;
+}
+.boton-cv{
+    background-color: #6ca19e;
+    color: #fffae3;
+}
+.caja-habilidades{
+    background-color: #15274a;
+    color: #fffae3;
+}
+.btn-proyecto{
+    background-color: #6ca19e ;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: #fffae3;
+}
+.card .card-title{
+    color: #ff0693;
+}
+#contacto{
+    background-color: #15274a;
+    color: #fffae3;
+}
+#btn-contacto{
+    background-color:#6ca19e ;
+    color: #fffae3;
+}
+footer p{
+    color: #ff0693;
+}
+footer p a{
+    text-decoration: none;
+}
+footer ul li a .bi-linkedin{
+    color: #641f5e
+}
+footer ul li a .bi-github{
+color: #641f5e;
+}
+footer ul li a .bi-discord{
+color: #641f5e;
+}
+footer ul li a .bi-whatsapp{
+color: #641f5e;
+}
+footer ul li a .bi-twitter-x{
+    color:#641f5e ;
+}
